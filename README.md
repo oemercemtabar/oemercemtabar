@@ -50,8 +50,9 @@
 </p>
 
 ### Commerce Platforms (badges)
-![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![commercetools](https://img.shields.io/badge/commercetools-0B1F3A?style=for-the-badge)
+![Shopify](https://img.shields.io/badge/shopify-840DD6.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![commercetools](https://img.shields.io/badge/commercetools-840DD6?style=for-the-badge)
+![wordpress](https://img.shields.io/wordpress/badge/wordpress-840DD6)
 
 ---
 
