@@ -7,10 +7,51 @@
 
 ---
 
-## 🧰 Languages & Tools
+## 🧰 Tech Stack
+
+### Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,rails,python,postgres,redis,docker,kubernetes,helm,terraform,nginx,flutter,wordpress,php,cpp,go,nodejs" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,vite,tailwind,bootstrap,angular,threejs,electron&perline=12" />
 </p>
+
+### Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ruby,rails,python,fastapi,nodejs,golang,dotnet,php&perline=12" />
+</p>
+
+### Databases & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=12" />
+</p>
+
+### DevOps & Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=bash,docker,kubernetes,terraform,helm,nginx,ubuntu,grafana,cloudflare,npm&perline=12" />
+</p>
+
+### Data / CV / ML
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=anaconda,opencv,pytorch,sklearn&perline=12" />
+</p>
+
+### Mobile
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=androidstudio,dart,flutter&perline=12" />
+</p>
+
+### Collaboration
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket&perline=12" />
+</p>
+
+### Other Languages / Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,regex,blender&perline=12" />
+</p>
+
+### Commerce Platforms (badges)
+![Shopify](https://img.shields.io/badge/shopify-7AB55C.svg?style=for-the-badge&logo=shopify&logoColor=white)
+![commercetools](https://img.shields.io/badge/commercetools-0B1F3A?style=for-the-badge)
 
 ---
 
