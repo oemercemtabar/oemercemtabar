@@ -25,10 +25,8 @@
 </p>
 
 ### DevOps & Observability
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,docker,kubernetes,terraform,nginx,ubuntu,grafana,cloudflare,npm&perline=12" />
-</p>
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
+![DevOps](https://go-skill-icons.vercel.app/api/icons?i=bash,docker,kubernetes,terraform,helm,nginx,ubuntu,grafana,cloudflare,npm)
+
 
 ### Data / CV / ML
 <p align="left">
