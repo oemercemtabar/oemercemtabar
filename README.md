@@ -26,8 +26,9 @@
 
 ### DevOps & Observability
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bash,docker,kubernetes,terraform,helm,nginx,ubuntu,grafana,cloudflare,npm&perline=12" />
+  <img src="https://skillicons.dev/icons?i=bash,docker,kubernetes,terraform,nginx,ubuntu,grafana,cloudflare,npm&perline=12" />
 </p>
+![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 
 ### Data / CV / ML
 <p align="left">
@@ -50,9 +51,9 @@
 </p>
 
 ### Commerce Platforms (badges)
-![Shopify](https://img.shields.io/badge/shopify-840DD6.svg?style=for-the-badge&logo=shopify&logoColor=white)
-![commercetools](https://img.shields.io/badge/commercetools-840DD6?style=for-the-badge)
-![wordpress](https://img.shields.io/wordpress/badge/wordpress-840DD6.svg)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+![commercetools](https://img.shields.io/badge/commercetools-0B1F3A?style=for-the-badge&logo=commercetools&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
 ---
 
