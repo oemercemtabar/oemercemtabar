@@ -56,8 +56,9 @@
 ---
 
 ## 📌 Featured Projects
-- **Fitting Labs Dashboard** — Rails + React (KPIs, activity, crash reports, support tools)
-- **Fitting Labs Mobile App** — Flutter (Android/iOS)
+- **Fitting Labs HUB - Admin Dashboard** — Rails + React with Next.js : Custom domain specific KPIs for clients, live performance monitoring and support system 
+- **Fitting Labs Mobile App** — Rails + Python + Flutter (Android/iOS): B2C App that provides multiple fit reccomendation engine to end-users
+- **Fitting Labs APEX** - Rails + (Blender + Adobe Photoshop) + Flutter : Gamification of Shoe Fit Plugin Tool Journey
 - **Secure LAN File Transfer** — encryption + key exchange + authorization
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-cem-tabar-891a3a173/)
