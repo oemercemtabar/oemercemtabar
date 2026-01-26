@@ -31,7 +31,7 @@ I can also step into Frontend tasks when needed for integrations or fixes.
 
 ---
 
-## ✅ What I do (aligned with Backend roles)
+## What I do (aligned with Backend roles)
 - **Backend feature development** (REST APIs, background jobs, integrations)
 - **Automated tests** (unit + integration), test cases definition
 - **Relational DB management & optimization** (Postgres/MySQL, indexes, queries)
