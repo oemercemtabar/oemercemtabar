@@ -1,7 +1,7 @@
 # Ömer Cem Tabar 👋
 **Full Stack Developer & Backend Developer | Padova, Italy**
 
-🇮🇹 IT (A2→B1) • 🇬🇧 EN (Fluent) • 🇹🇷 TR (Native)
+🇮🇹 IT (B1) • 🇬🇧 EN (Fluent) • 🇹🇷 TR (Native)
 
 Backend-first full stack developer focused on building reliable APIs, database-driven systems, and production-ready deployments.
 
@@ -78,8 +78,6 @@ I can also step into Frontend tasks when needed for integrations or fixes.
   B2C app with multiple fit recommendation engines and integrations
 - **Fitting Labs APEX** (Rails + Blender/Photoshop + Flutter)  
   Gamified shoe-fit plugin journey and user experience flows
-- **Secure LAN File Transfer**  
-  Encryption + key exchange + authorization
 
 ---
 
