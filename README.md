@@ -1,9 +1,9 @@
 # Ömer Cem Tabar 👋
-**Full Stack Developer & Backend Developer | Padova, Italy**
+**Full Stack Software Engineer | Backend & DevOps Focused**
 
-🇮🇹 IT (B1) • 🇬🇧 EN (Fluent) • 🇹🇷 TR (Native)
+🇮🇹 IT (B1) • 🇬🇧 EN (Fluent) • 🇹🇷 TR (Native) 📍 Padova, Italy
 
-Backend-first full stack developer focused on building reliable APIs, database-driven systems, and production-ready deployments.
+Backend-first engineer with a high-performance Frontend edge. I build scalable APIs and production-ready infrastructures while maintaining a strong eye for UI/UX integrity and complex frontend architectures.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%C3%B6mer-cem-tabar-891a3a173/)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omercemtabarofficial@gmail.com)
@@ -12,34 +12,36 @@ Backend-first full stack developer focused on building reliable APIs, database-d
 ---
 
 ## 🇮🇹 Profilo (IT)
-Sviluppo **prodotti digitali lato Backend** in team **Agile** cross-funzionali (Frontend/Backend/UI-UX).  
-Mi occupo di **API**, **test automatici** (unit/integration), **ottimizzazione DB relazionali**, **Linux**, e supporto al **deploy** con pipeline **CI/CD** (GitHub Actions / GitLab).  
-Quando serve, intervengo anche sul Frontend per integrazioni o bugfix.
+Sviluppo architetture Full Stack con un forte orientamento al Backend e DevOps.
+Realizzo API robuste, ottimizzo database e gestisco infrastrutture CI/CD (Docker, K8s, Terraform). Nonostante il mio focus sistemistico, possiedo competenze avanzate nel Frontend (React/Next.js), che mi permettono di curare l'intero ciclo di vita del prodotto, garantendo performance e design di alto livello.
 
-**Backend focus:** Ruby on Rails • NodeJS • Python (Flask/FastAPI)  
-**DevOps & Infra:** Docker • Kubernetes • Terraform • Nginx • Ubuntu • Observability (Grafana)
+**Core Stack:** Ruby on Rails • Node.js • Python (FastAPI/Flask) • React • DevOps (IaC)
 
 ---
 
-## 🇬🇧 About (EN)
-Backend-first full stack developer working in **Agile cross-functional** teams.  
-I build **APIs**, write **unit/integration tests**, optimize **relational databases**, work comfortably on **Linux servers**, and support **CI/CD + deployments** (GitHub Actions / GitLab).  
-I can also step into Frontend tasks when needed for integrations or fixes.
+🇬🇧 About (EN)
+Full Stack Engineer specializing in Backend systems and Cloud Infrastructure, but with a deep expertise in Frontend engineering.
+I don't just "step into" Frontend; I build complex, responsive, and state-heavy web applications that connect seamlessly with the high-concurrency APIs I design. Comfortable managing the entire pipeline—from Terraform scripts to React hooks.
 
-**Backend focus:** Ruby on Rails • NodeJS • Python (Flask/FastAPI)  
-**DevOps & Infra:** Docker • Kubernetes • Terraform • Nginx • Ubuntu • Observability (Grafana)
+**Expertise:** API Design • SQL Optimization • CI/CD & Cloud Native • Advanced Frontend Logic
 
 ---
 
-## What I do (aligned with Backend roles)
-- **Backend feature development** (REST APIs, background jobs, integrations)
-- **Automated tests** (unit + integration), test cases definition
-- **Relational DB management & optimization** (Postgres/MySQL, indexes, queries)
-- **Linux server operations** (logs, services, monitoring)
-- **CI/CD support** (GitHub Actions / GitLab Runner), basic deploy flows
-- **Peer code review**, estimation, and planning in Agile teams
-- Occasional **Frontend support** when necessary (React/Next.js)
+## What I Bring to the Team
+- **Robust Backend Foundations:** REST/GraphQL APIs, Background Processing, and Service-Oriented Architecture.
+- **Advanced Frontend Engineering:** Building complex dashboards (like Recruit HQ) with refined UI/UX and efficient state management.
+- **Infrastructure as Code (IaC):** Automating deployments with Docker, Kubernetes, and Terraform to ensure 99.9% uptime.
+- **Quality Assurance:** TDD/BDD approach with comprehensive Unit and Integration testing across the stack.
+- **Agile Leadership:** Peer code reviews, system design, and technical mentorship.
 
+---
+## 📌 Featured Projects
+- **Recruit HQ (React + Tailwind CSS + Lucide)**
+  - Comprehensive B2B Applicant Tracking System (ATS) featuring dynamic candidate pipelines, interview scheduling, and skill-match analytics.
+- **Radici: L'Ombra della Tradizione (Python Flask + React + ISTAT Open Data)**
+  - Data-driven cultural exploration tool that bridges elderly communities with travelers by analyzing demographic aging trends and local heritage maps.
+- **Project DevOps Starter (FastAPI + Docker + Kubernetes + Terraform)**
+  - A roadmap-driven repository for mastering DevOps; featuring day-by-day tasks, IaC practices, and hands-on deployment workflows using Helm and Terraform.
 ---
 
 ## 🧰 Tech Stack
@@ -47,6 +49,11 @@ I can also step into Frontend tasks when needed for integrations or fixes.
 ### Backend (focus)
 <p align="left">
   <img src="https://skillicons.dev/icons?i=ruby,rails,nodejs,python,fastapi,flask&perline=12" />
+</p>
+
+### DevOps & Observability
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,helm,nginx,githubactions,gitlab,grafana,cloudflare&perline=12" />
 </p>
 
 ### Frontend
@@ -59,11 +66,6 @@ I can also step into Frontend tasks when needed for integrations or fixes.
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis&perline=12" />
 </p>
 
-### DevOps & Observability
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,terraform,helm,nginx,githubactions,gitlab,grafana,cloudflare&perline=12" />
-</p>
-
 ### Collaboration
 <p align="left">
   <img src="https://skillicons.dev/icons?i=github,gitlab,bitbucket&perline=12" />
@@ -71,15 +73,5 @@ I can also step into Frontend tasks when needed for integrations or fixes.
 
 ---
 
-## 📌 Featured Projects
-- **Recruit HQ (React + Tailwind CSS + Lucide)
-  - Comprehensive B2B Applicant Tracking System (ATS) featuring dynamic candidate pipelines, interview scheduling, and skill-match analytics.
-- **Radici: L'Ombra della Tradizione (Python Flask + React + ISTAT Open Data)
-  - Data-driven cultural exploration tool that bridges elderly communities with travelers by analyzing demographic aging trends and local heritage maps.
-- **Project DevOps Starter (FastAPI + Docker + Kubernetes + Terraform)
-  - A roadmap-driven repository for mastering DevOps; featuring day-by-day tasks, IaC practices, and hands-on deployment workflows using Helm and Terraform.
-
----
-
 ## 🧪 Engineering Keywords
-**REST APIs • Service Objects • Background Jobs • Design Patterns • Testing • CI/CD • Linux • SQL Optimization • Docker • Kubernetes**
+**System Architecture • Scalable APIs • IaC (Terraform/K8s) • CI/CD Pipelines • React Architecture • SQL Performance • TDD • Linux Internals • Cloud Native**
