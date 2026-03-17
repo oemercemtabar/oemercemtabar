@@ -72,12 +72,12 @@ I can also step into Frontend tasks when needed for integrations or fixes.
 ---
 
 ## 📌 Featured Projects
-- **Fitting Labs HUB — Admin Dashboard** (Rails + Next.js)  
-  Domain KPIs, live monitoring, support tools, multi-tenant architecture
-- **Fitting Labs Mobile App** (Rails + Python + Flutter)  
-  B2C app with multiple fit recommendation engines and integrations
-- **Fitting Labs APEX** (Rails + Blender/Photoshop + Flutter)  
-  Gamified shoe-fit plugin journey and user experience flows
+- **Recruit HQ (React + Tailwind CSS + Lucide)
+  - Comprehensive B2B Applicant Tracking System (ATS) featuring dynamic candidate pipelines, interview scheduling, and skill-match analytics.
+- **Radici: L'Ombra della Tradizione (Python Flask + React + ISTAT Open Data)
+  - Data-driven cultural exploration tool that bridges elderly communities with travelers by analyzing demographic aging trends and local heritage maps.
+- **Project DevOps Starter (FastAPI + Docker + Kubernetes + Terraform)
+  - A roadmap-driven repository for mastering DevOps; featuring day-by-day tasks, IaC practices, and hands-on deployment workflows using Helm and Terraform.
 
 ---
 
