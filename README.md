@@ -36,6 +36,8 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 
 ---
 ## 📌 Featured Projects
+- **Guardian Fraud Detector (FastAPI + Random Forest + SQLite + Next.js)**
+  - Full-stack ML system for real-time transaction scoring, using FastAPI lifespan-based model loading, background task persistence for suspicious events, and a searchable operations dashboard for fraud review.
 - **Recruit HQ (React + Tailwind CSS + Lucide)**
   - Comprehensive B2B Applicant Tracking System (ATS) featuring dynamic candidate pipelines, interview scheduling, and skill-match analytics.
 - **Radici: L'Ombra della Tradizione (Python Flask + React + ISTAT Open Data)**
