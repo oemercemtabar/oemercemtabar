@@ -21,7 +21,7 @@ Realizzo API robuste, ottimizzo database e gestisco infrastrutture CI/CD (Docker
 
 ## 🇬🇧 About (EN)
 Full Stack Engineer specializing in Backend systems and Cloud Infrastructure, but with a deep expertise in Frontend engineering.
-I don't just "step into" Frontend; I build complex, responsive, and state-heavy web applications that connect seamlessly with the high-concurrency APIs I design. Comfortable managing the entire pipeline—from Terraform scripts to React hooks.
+I don't just "step into" Frontend; I build complex, responsive, and state-heavy web applications that connect seamlessly with the high-concurrency APIs I design. Comfortable managing the entire pipeline, from Terraform scripts to React hooks.
 
 **Expertise:** API Design • SQL Optimization • CI/CD & Cloud Native • Advanced Frontend Logic
 
