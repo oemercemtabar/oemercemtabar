@@ -5,7 +5,7 @@
 
 Backend-first engineer with a high-performance Frontend edge. I build scalable APIs and production-ready infrastructures while maintaining a strong eye for UI/UX integrity and complex frontend architectures.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/%C3%B6mer-cem-tabar-891a3a173/](https://www.linkedin.com/in/cem-tabar-891a3a173/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BWQEPct66QSuymiEt39nQRQ%3D%3D))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cem-tabar-891a3a173/en/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BsgZhlQxgRBK9TQiZAsF50A%3D%3D)
 [![Email](https://img.shields.io/badge/Email-Contact-informational?style=for-the-badge&logo=gmail&logoColor=white)](mailto:omercemtabarofficial@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oemercemtabar)
 
