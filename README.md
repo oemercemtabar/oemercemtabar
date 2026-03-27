@@ -74,5 +74,20 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 
 ---
 
-## 🧪 Engineering Keywords
-**System Architecture • Scalable APIs • IaC (Terraform/K8s) • CI/CD Pipelines • React Architecture • SQL Performance • TDD • Linux Internals • Cloud Native**
+## Microsoft Learn Achievements
+<table border="0">
+<tr>
+<td align="center" width="200">
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N?sharingId=A563738E10C76DE1">
+<img src="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N/image" width="120" alt="Introduction to Docker Containers" /><br />
+<b>Intro to Docker Containers</b>
+</a>
+</td>
+<td align="center" width="200">
+<a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95WQLN?sharingId=A563738E10C76DE1">
+<img src="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95WQLN/image" width="120" alt="Docker Containers in VS Code" /><br />
+<b>Docker Dev Environments</b>
+</a>
+</td>
+</tr>
+</table>
