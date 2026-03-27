@@ -75,19 +75,12 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 ---
 
 ## Microsoft Learn Achievements
-<table>
-  <tr>
-    <td align="center" width="200">
-      <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N?sharingId=A563738E10C76DE1">
-        <img src="./badges/intro-to-docker-containers-social.png" width="120" alt="Introduction to Docker" /><br />
-        <b>Intro to Docker</b>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95WQLN?sharingId=A563738E10C76DE1">
-        <img src="./badges/use-docker-container-dev-env-vs-code.svg" width="120" alt="Docker in VS Code" /><br />
-        <b>Docker Dev Environments</b>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N?sharingId=A563738E10C76DE1">
+    <img src="./badges/intro-to-docker-containers-social.png" width="80" alt="Intro to Docker" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95WQLN?sharingId=A563738E10C76DE1">
+    <img src="./badges/use-docker-container-dev-env-vs-code.svg" width="80" alt="Docker Dev Environments" />
+  </a>
+</p>
