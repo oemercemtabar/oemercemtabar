@@ -79,7 +79,6 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N?sharingId=A563738E10C76DE1">
     <img src="./badges/intro-to-docker-containers-social.png" width="80" alt="Intro to Docker" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95WQLN?sharingId=A563738E10C76DE1">
     <img src="./badges/use-docker-container-dev-env-vs-code.svg" width="80" alt="Docker Dev Environments" />
   </a>
