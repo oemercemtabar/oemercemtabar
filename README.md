@@ -77,12 +77,15 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 ## Microsoft Learn Achievements
 <p align="left">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N?sharingId=A563738E10C76DE1">
-    <img src="./badges/intro-to-docker-containers-social.png" width="80" alt="Intro to Docker" />
+    <img src="./badges/intro-to-docker-containers-social.png" width="60" alt="Intro to Docker" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95WQLN?sharingId=A563738E10C76DE1">
-    <img src="./badges/use-docker-container-dev-env-vs-code.svg" width="80" alt="Docker Dev Environments" />
+    <img src="./badges/use-docker-container-dev-env-vs-code.svg" width="60" alt="Docker Dev Environments" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/FQ39LDBX?sharingId=A563738E10C76DE1">
-    <img src="./badges/1-explore-infrastructure-as-code-and-configuration-management.svg" width="80" alt="Explore Infrastrcuture as Code and configuration management" />
+    <img src="./badges/1-explore-infrastructure-as-code-and-configuration-management.svg" width="60" alt="Explore Infrastrcuture as Code and configuration management" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV96U5XN?sharingId=A563738E10C76DE1">
+    <img src="./badges/generic-badge.svg" width="60" alt="Introduction to GitHub Advanced Security" />
   </a>
 </p>
