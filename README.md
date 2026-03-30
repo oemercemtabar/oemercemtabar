@@ -74,7 +74,7 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 
 ---
 
-## Microsoft Learn Achievements
+## Certifications & Credentials
 <p align="left">
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV95SG2N?sharingId=A563738E10C76DE1">
     <img src="./badges/intro-to-docker-containers-social.png" width="60" alt="Intro to Docker" />
@@ -87,5 +87,13 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WV96U5XN?sharingId=A563738E10C76DE1">
     <img src="./badges/generic-badge.svg" width="60" alt="Introduction to GitHub Advanced Security" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/7BXVED7Z?sharingId=A563738E10C76DE1">
+    <img src="./badges/generic-badge.svg" width="60" alt="Configure Dependabot security updates on your GitHub repo" />
+  </a>
+</p>
+<p align="left">
+  <a href="https://verify.skilljar.com/c/xg5ep3py5wrm">
+    <img src="./badges/calude.png" width="60" alt="Claude Code in Action" />
   </a>
 </p>
