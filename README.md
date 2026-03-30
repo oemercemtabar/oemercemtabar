@@ -94,6 +94,6 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 </p>
 <p align="left">
   <a href="https://verify.skilljar.com/c/xg5ep3py5wrm">
-    <img src="./badges/calude.jpeg" width="60" alt="Claude Code in Action" />
+    <img src="./badges/claude.jpeg" width="60" alt="Claude Code in Action" />
   </a>
 </p>
