@@ -91,6 +91,12 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/7BXVED7Z?sharingId=A563738E10C76DE1">
     <img src="./badges/generic-badge.svg" width="60" alt="Configure Dependabot security updates on your GitHub repo" />
   </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/VTABZ7WM?sharingId=A563738E10C76DE1">
+    <img src="./badges/operations-solutions.svg" width="60" alt="Design a machine learning operations solution" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/376YU98H?sharingId=A563738E10C76DE1">
+    <img src="./badges/machine-learning-projects.svg" width="60" alt="Design a data ingestion strategy for machine learning projects" />
+  </a>
 </p>
 <p align="left">
   <a href="https://verify.skilljar.com/c/xg5ep3py5wrm">
