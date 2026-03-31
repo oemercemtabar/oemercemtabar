@@ -91,12 +91,22 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/7BXVED7Z?sharingId=A563738E10C76DE1">
     <img src="./badges/generic-badge.svg" width="60" alt="Configure Dependabot security updates on your GitHub repo" />
   </a>
-  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/VTABZ7WM?sharingId=A563738E10C76DE1">
-    <img src="./badges/operations-solutions.svg" width="60" alt="Design a machine learning operations solution" />
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/WVU73CGN?sharingId=A563738E10C76DE1">
+    <img src="./badges/introduction-ml.svg" width="60" alt="Introduction to machine learning concepts" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/376YU98H?sharingId=A563738E10C76DE1">
     <img src="./badges/machine-learning-projects.svg" width="60" alt="Design a data ingestion strategy for machine learning projects" />
   </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/VTABZ7WM?sharingId=A563738E10C76DE1">
+    <img src="./badges/operations-solutions.svg" width="60" alt="Design a machine learning operations solution" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/376RWXYH?sharingId=A563738E10C76DE1">
+    <img src="./badges/ml-azure.svg" width="60" alt="Get started with machine learning in Azure" />
+  </a>
+  <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/XE8MAHCY?sharingId=A563738E10C76DE1">
+    <img src="./badges/design-model-deployment.svg" width="60" alt="Design a model deployment solution" />
+  </a>
+  
 </p>
 <p align="left">
   <a href="https://verify.skilljar.com/c/xg5ep3py5wrm">
