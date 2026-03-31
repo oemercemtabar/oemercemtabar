@@ -104,7 +104,7 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
     <img src="./badges/ml-azure.svg" width="60" alt="Get started with machine learning in Azure" />
   </a>
   <a href="https://learn.microsoft.com/api/achievements/share/en-us/CemTabar-4376/XE8MAHCY?sharingId=A563738E10C76DE1">
-    <img src="./badges/design-model-deployment.svg" width="60" alt="Design a model deployment solution" />
+    <img src="./badges/desing-model-deployment.svg" width="60" alt="Design a model deployment solution" />
   </a>
   
 </p>
