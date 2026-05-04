@@ -35,14 +35,45 @@ I don't just "step into" Frontend; I build complex, responsive, and state-heavy 
 
 ---
 ## 📌 Featured Projects
-- **Guardian Fraud Detector (FastAPI + scikit-learn + SQLite + Next.js + Tailwind CSS)**
-  - Full-stack ML system for real-time transaction scoring, using FastAPI lifespan-based model loading, background task persistence for suspicious events, and a searchable operations dashboard for fraud review.
-- **Recruit HQ (React + Tailwind CSS + Lucide)**
-  - Comprehensive B2B Applicant Tracking System (ATS) featuring dynamic candidate pipelines, interview scheduling, and skill-match analytics.
-- **Radici: L'Ombra della Tradizione (Python Flask + React + ISTAT Open Data)**
-  - Data-driven cultural exploration tool that bridges elderly communities with travelers by analyzing demographic aging trends and local heritage maps.
-- **Project DevOps Starter (FastAPI + Docker + Kubernetes + Terraform)**
-  - A roadmap-driven repository for mastering DevOps; featuring day-by-day tasks, IaC practices, and hands-on deployment workflows using Helm and Terraform.
+
+<table border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🌟 Lumina</h3>
+      <p>An AI-powered Active Capture system for high-fidelity 3D Head Avatars. Uses real-time pose guidance and 3D Gaussian Splatting to transform standard webcam feeds into animatable digital twins.</p>
+      <a href="https://github.com/oemercemtabar/Lumina"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🔍 GhostPixel-AI</h3>
+      <p>A deep learning approach to detecting adaptive steganography in JPEG images using the ALASKA2 dataset. Built with PyTorch.</p>
+      <a href="https://github.com/oemercemtabar/GhostPixel-AI"><b>View Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>💼 RecruitHQ</h3>
+      <p>Full-stack recruitment portal featuring automated candidate pipelines, job management, and real-time tracking.</p>
+      <a href="https://github.com/oemercemtabar/RecruitHQ"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛡️ guardian-fraud-detector</h3>
+      <p>Financial fraud detection engine utilizing machine learning [XGBoost/RandomForest/LSTM] to identify suspicious patterns in transaction data. Built with Python and Scikit-Learn.</p>
+      <a href="https://github.com/oemercemtabar/guardian-fraud-detector"><b>View Project →</b></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚚 smart-logistics-lastmile-optimizer</h3>
+      <p>A smart logistics toolkit for last-mile delivery optimization. Features include real-time route planning, multi-stop delivery sequencing, and load balancing to ensure faster delivery times.</p>
+      <a href="https://github.com/oemercemtabar/smart-logistics-lastmile-optimizer"><b>View Project →</b></a>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📡 iot-monitoring-fastapi</h3>
+      <p>An asynchronous IoT monitoring backend built with FastAPI. Designed to ingest, process, and serve real-time sensor data through high-performance RESTful endpoints, leveraging Python's asyncio.</p>
+      <a href="https://github.com/oemercemtabar/iot-monitoring-fastapi"><b>View Project →</b></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## 🧰 Tech Stack
